@@ -1,0 +1,88 @@
+/*Global*/
+
+body {
+      background: #7FFFD4;
+  }
+
+img { 
+      width : 75%; 
+  }
+
+  h1 {
+    color: #706B62; 
+    font-size: 70px;
+}
+
+h2 {
+    color: #FF1493;
+    font-size: 20px;
+}
+
+.contact{
+    background: none;
+    color: 	#DC143C;
+}
+
+#aboutimg {
+    width:  65%;
+}
+
+/*Layout */
+
+.gallery {
+  height: 500px;
+}
+.item {
+  text-align: center;
+}
+
+.item img {
+  width: 400px;  
+}
+
+.controls img {
+  width: 50px;
+}
+
+
+
+
+/*Typography*/
+
+#index {
+    color: #E9967A;
+    
+}
+
+h1, h2, nav, li, p, div {
+    font-family: 'Lobster', cursive;
+}
+
+
+
+/*Navigation*/
+
+nav {
+text-align: center;
+}
+
+nav ul {
+display: inline-block;
+list-style: none;
+}
+
+ html nav ul { 
+display: inline;
+}
+
+nav li {
+display: inline;   
+}
+
+nav a {
+float: left;
+text-decoration: none; 
+padding: 0 30px; 
+color: #AB4d00;
+font-size: 30px;
+}
